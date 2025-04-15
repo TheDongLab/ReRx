@@ -51,22 +51,9 @@ library(stringr)
 library(tidyr)
 library(tidyverse)
 
-🔬 Analysis Process
-1. Data Cleaning of Medication Records
+## 🔬 Analysis Process
+### 1. Data Cleaning of Medication Records
 The Medication.R and Drug_dictionary.R scripts are used to clean and standardize medication records from all three cohorts.
-
-Raw Data Formats
-MGB_Biobank:
-EMPI | Medication_Date | Medication | Hospital
-
-PPMI:
-PATNO | CMTRT | STARTDT
-
-PDBP:
-Study_ID | PATNO | CMTRT | EVENT_ID
-
-drug_dictionary_*:
-CMTRT | DrugName
 
 Scripts
 Medication.R:
@@ -75,7 +62,7 @@ Prepares cleaned medication datasets for downstream modeling.
 Drug_dictionary.R:
 Maps medication records to generic drug names using PubChem API and DrugBank.
 
-2. Drug-PD Association Analysis
+### 2. Drug-PD Association Analysis
 Includes propensity score matching, logistic regression, replication, and sensitivity analyses.
 
 Scripts
@@ -94,34 +81,14 @@ Calculates demographic characteristics.
 PD_progression.R:
 Linear mixed-effects model for cognitive and motor progression.
 
-Raw Data Formats
-MGB_Biobank:
-EMPI | Date_of_Birth | Age | Gender_Legal_Sex | Race_Group
-
-PPMI and PDBP:
-PATNO | COHORT | CONCOHORT | subgroup | EVENT_ID | YEAR | age | age_at_visit | SEX | educ | race | moca | updrs3_score | source
-
-atccodes.csv:
-ATC.code | Name
-
-export_Touchstone.txt:
-Name | Target | MoA
-
-Output Files
-PD_risk_results_AMPPD.xlsx, PD_risk_results_MGB.xlsx:
-DrugName | OR | CI_lower | CI_upper | p_value | Y_case | Y_ctrl | N_case | N_ctrl
-
-AMPPD_with_ATC_update.xlsx, MGB_with_ATC_update.xlsx:
-DrugName | ATC.code
-
-3. Drug-Target Gene Expression Analysis
+### 3. Drug-Target Gene Expression Analysis
 The Target_genes.R script maps drug target genes to cell types to explore therapeutic potential.
 
-🔓 Data Access and Sharing
+## 🔓 Data Access and Sharing
 Raw data is available upon reasonable request, subject to approval by MGB Biobank and AMP-PD.
 
-📚 Citation
+## 📚 Citation
 Publications based on this dataset should cite the associated paper and credit the dataset authors.
 
-🪪 License
+## 🪪 License
 License information: TBD or add license type here (e.g., CC BY 4.0)
