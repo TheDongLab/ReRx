@@ -1,6 +1,6 @@
 # ReRx_drug_repurposing_multicohort
 
-This dataset provides scripts, data, and other relevant information on the systematic analysis of the study entitled **"Drug Repurposing for Parkinson’s Disease: A Large-Scale Multi-Cohort Study"**, which aims to identify drugs associated with the risk and progression of PD to provide insights into potential therapeutics and targets. 
+This code repository provides scripts on the systematic analysis of the study entitled **"Drug Repurposing for Parkinson’s Disease: A Large-Scale Multi-Cohort Study"**, which aims to identify drugs associated with the risk and progression of PD to provide insights into potential therapeutics and targets.
 
 We leveraged data from the Mass General Brigham (MGB) Biobank for discovery and the Accelerating Medicines Partnership Parkinson’s Disease (AMP-PD) program for replication. Specifically, two largest AMP-PD sub-cohorts (PPMI and PDBP) were integrated to forge the replication cohort.
 
