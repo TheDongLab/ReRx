@@ -83,7 +83,7 @@ Calculates demographic characteristics.
 Linear mixed-effects model for cognitive and motor progression.
 
 ### 3. Drug-Target Gene Expression Analysis
-The Target_genes.R script maps drug target genes to cell types to explore therapeutic potential.
+The `Target_genes.R` script maps drug target genes to cell types to explore therapeutic potential.
 
 ## 🔓 Data Access and Sharing
 Raw data is available upon reasonable request, subject to approval by MGB Biobank and AMP-PD.
