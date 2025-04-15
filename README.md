@@ -50,3 +50,35 @@ library(Seurat)
 library(stringr)
 library(tidyr)
 library(tidyverse)
+
+~/project/ReRx/
+│
+├── data
+│   ├── raw_data
+│   │   ├── atccodes.csv
+│   │   ├── export_Touchstone.txt
+│   │   ├── MGB_Biobank/
+│   │   ├── PDBP/
+│   │   └── PPMI/
+│   └── processed_data
+│       ├── drug_dictionary_MGB.csv
+│       ├── drug_dictionary_update_PDBP.xlsx
+│       └── drug_dictionary_update_PPMI.xlsx
+│
+├── results
+│   ├── PD_risk_results_AMPPD.xlsx
+│   ├── PD_risk_results_MGB.xlsx
+│   ├── AMPPD_with_ATC_update.xlsx
+│   └── MGB_with_ATC_update.xlsx
+│
+├── scripts
+│   ├── Characteristic.R
+│   ├── Drug_dictionary.R
+│   ├── Medication.R
+│   ├── PD_progression.R
+│   ├── PD_risk.R
+│   ├── Replication.R
+│   ├── Sensitivity_analysis.R
+│   └── Target_genes.R
+│
+└── ReRx.txt
