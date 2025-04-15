@@ -57,29 +57,29 @@ library(tidyverse)
 The Medication.R and Drug_dictionary.R scripts are used to clean and standardize medication records from all three cohorts.
 
 Scripts
-- **Medication.R**:
+- **`Medication.R`**:
 Prepares cleaned medication datasets for downstream modeling.
 
-- **Drug_dictionary.R**:
+- **`Drug_dictionary.R`**:
 Maps medication records to generic drug names using PubChem API and DrugBank.
 
 ### 2. Drug-PD Association Analysis
 Includes propensity score matching, logistic regression, replication, and sensitivity analyses.
 
 Scripts
-- **PD_risk.R**:
+- **`PD_risk.R`**:
 Main analysis: PSM, plots, logistic regression.
 
-- **Replication.R**:
+- **`Replication.R`**:
 Identifies replicated drugs (by name and by ATC codes).
 
-- **Sensitivity_analysis.R**:
+- **`Sensitivity_analysis.R`**:
 Dose effect and reverse causality sensitivity analyses.
 
-- **Characteristic.R**:
+- **`Characteristic.R`**:
 Calculates demographic characteristics.
 
-- **PD_progression.R**:
+- **`PD_progression.R`**:
 Linear mixed-effects model for cognitive and motor progression.
 
 ### 3. Drug-Target Gene Expression Analysis
