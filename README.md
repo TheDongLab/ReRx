@@ -89,7 +89,4 @@ The **`Target_genes.R`** script maps drug target genes to cell types to explore 
 Raw data is available upon reasonable request, subject to approval by MGB Biobank and AMP-PD.
 
 ## 📚 Citation
-Publications based on this dataset should cite the associated paper and credit the dataset authors.
-
-## 🪪 License
-License information: TBD or add license type here (e.g., CC BY 4.0)
+Publications based on this code repository should cite the associated paper and credit the authors.
