@@ -4,16 +4,6 @@ This code repository provides scripts on the systematic analysis of the study en
 
 We leveraged data from the Mass General Brigham (MGB) Biobank for discovery and the Accelerating Medicines Partnership Parkinson’s Disease (AMP-PD) program for replication. Specifically, two largest AMP-PD sub-cohorts (PPMI and PDBP) were integrated to forge the replication cohort.
 
-**This readme file was generated on 2025-04-14 by Yuxuan Hu with the help of Weiqiang Liu and Xianjun Dong (PI).**
-
-**Xianjun Dong, PhD**  
-Associate Professor, Departments of Neurology and Biomedical Informatics and Data Science  
-Yale School of Medicine’s Stephen & Denise Adams Center for Parkinson’s Disease Research  
-100 College Street  
-New Haven, CT 06510  
-Email: [xianjun.dong@yale.edu](mailto:xianjun.dong@yale.edu)  
-ORCID: [0000-0002-8052-9320](https://orcid.org/0000-0002-8052-9320)
-
 ## 🗓️ Date of Raw Data Collection
 
 - **PPMI**: 2023-10-01  
@@ -90,3 +80,6 @@ Raw data is available upon reasonable request, subject to approval by MGB Bioban
 
 ## 📚 Citation
 Publications based on this code repository should cite the associated paper and credit the authors.
+
+## Credit 
+This readme file was generated on 2025-04-14 by Yuxuan Hu with the help of Weiqiang Liu and Xianjun Dong (PI).
