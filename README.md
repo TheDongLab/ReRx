@@ -1,4 +1,4 @@
-# ReRx_drug_repurposing_multicohort
+# ReRx: A toolkit for drug repurposing analysis
 
 This code repository provides scripts on the systematic analysis of the study entitled **"Drug Repurposing for Parkinson’s Disease: A Large-Scale Multi-Cohort Study"**, which aims to identify drugs associated with the risk and progression of PD to provide insights into potential therapeutics and targets.
 
