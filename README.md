@@ -4,7 +4,7 @@ This code repository provides scripts on the systematic analysis of the study en
 
 We leveraged data from the Mass General Brigham (MGB) Biobank for discovery and the Accelerating Medicines Partnership Parkinson’s Disease (AMP-PD) program for replication. Specifically, two largest AMP-PD sub-cohorts (PPMI and PDBP) were integrated to forge the replication cohort.
 
-## 🗓️ Date of Raw Data Collection
+## Date of Raw Data Collection
 
 - **PPMI**: 2023-10-01  
 - **PDBP**: 2023-12-04  
@@ -12,7 +12,7 @@ We leveraged data from the Mass General Brigham (MGB) Biobank for discovery and 
 - **atccodes**: 2024-12-01  
 - **export_Touchstone**: 2025-02-07  
 
-## 🧰 Software Dependencies
+## Software Dependencies
 
 Tested with **R 4.4.1**. Required R packages:
 
@@ -42,7 +42,7 @@ library(tidyr)
 library(tidyverse)
 ```
 
-## 🔬 Analysis Process
+## Analysis Process
 ### 1. Data Cleaning of Medication Records
 The Medication.R and Drug_dictionary.R scripts are used to clean and standardize medication records from all three cohorts.
 
@@ -75,10 +75,10 @@ Linear mixed-effects model for cognitive and motor progression.
 ### 3. Drug-Target Gene Expression Analysis
 The **`Target_genes.R`** script maps drug target genes to cell types to explore therapeutic potential.
 
-## 🔓 Data Access and Sharing
+## Data Access and Sharing
 Raw data is available upon reasonable request, subject to approval by MGB Biobank and AMP-PD.
 
-## 📚 Citation
+## Citation
 Publications based on this code repository should cite the associated paper and credit the authors.
 
 ## Credit 
