@@ -83,3 +83,5 @@ Publications based on this code repository should cite the associated paper and 
 
 ## Credit 
 This readme file was generated on 2025-04-14 by Yuxuan Hu with the help of Weiqiang Liu and Xianjun Dong (PI).
+
+How to cite: [![DOI](https://zenodo.org/badge/978369804.svg)](https://doi.org/10.5281/zenodo.15360497)
