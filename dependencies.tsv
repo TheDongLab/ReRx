@@ -1,0 +1,42 @@
+package	source	reported_version	version_provenance	scripts
+anndata2ri	PyPI	unrecorded	Not reported in supplied environment evidence	Transcriptomic_analysis.Tahoe100M.py
+AnnotationDbi	Bioconductor	unrecorded	Not reported in supplied environment evidence	Transcriptomic_analysis.R
+arrow	CRAN	21.0.0	KRT 10.5281/zenodo.22802221; unverified environment	TTE_MDCR_ARB_Subgroup_BBB_Individual.R;TTE_MDCR_Autonomic_Prodromal_PD.R;TTE_MDCR_Drug_Classes_Final.R;TTE_MDCR_Primary_Analysis.R
+broom	CRAN	1.0.6	KRT 10.5281/zenodo.22802221; unverified environment	MGB_Biobank_Sensitivity.R;MGB_Biobank_Validation2.R;PD_risk.R;TTE_MDCR_ARB_Subgroup_BBB_Individual.R;TTE_MDCR_Autonomic_Prodromal_PD.R;TTE_MDCR_Drug_Classes_Final.R;TTE_MDCR_Primary_Analysis.R
+broom.mixed	CRAN	0.2.9.6	KRT 10.5281/zenodo.22802221; unverified environment	MGB_Biobank_Validation2.R
+clusterProfiler	Bioconductor	4.14.6	KRT 10.5281/zenodo.22802221; unverified environment	Transcriptomic_analysis.R
+cobalt	CRAN	4.5.5	KRT 10.5281/zenodo.22802221; unverified environment	TTE_MDCR_ARB_Subgroup_BBB_Individual.R;TTE_MDCR_Autonomic_Prodromal_PD.R;TTE_MDCR_Drug_Classes_Final.R;TTE_MDCR_Primary_Analysis.R
+comorbidity	CRAN	1.1.0	KRT 10.5281/zenodo.22802221; unverified environment	TTE_MDCR_Primary_Analysis.R
+data.table	CRAN	1.17.6	KRT 10.5281/zenodo.22802221; unverified environment	TTE_MDCR_Primary_Analysis.R
+DESeq2	Bioconductor	1.46.0	KRT 10.5281/zenodo.22802221; unverified environment	Transcriptomic_analysis.R
+dplyr	CRAN	1.1.4	KRT 10.5281/zenodo.22802221; unverified environment	MGB_Biobank_Medication_RxNorm.R;MGB_Biobank_Sensitivity.R;MGB_Biobank_Validation1.R;MGB_Biobank_Validation2.R;PD_risk.R;Replication.R;TTE_MDCR_ARB_Subgroup_BBB_Individual.R;TTE_MDCR_Autonomic_Prodromal_PD.R;TTE_MDCR_Drug_Classes_Final.R;TTE_MDCR_Positive_Control_Stroke.R;TTE_MDCR_Primary_Analysis.R
+ggplot2	CRAN	3.5.1	KRT 10.5281/zenodo.22802221; unverified environment	MGB_Biobank_Sensitivity.R;MGB_Biobank_Validation2.R;Replication.R;TTE_MDCR_ARB_Subgroup_BBB_Individual.R;TTE_MDCR_Autonomic_Prodromal_PD.R;TTE_MDCR_Drug_Classes_Final.R;TTE_MDCR_Primary_Analysis.R;Transcriptomic_analysis.R
+ggrepel	CRAN	0.9.6	KRT 10.5281/zenodo.22802221; unverified environment	TTE_MDCR_Primary_Analysis.R
+httr	CRAN	1.4.8	KRT 10.5281/zenodo.22802221; unverified environment	MGB_Biobank_Medication_RxNorm.R
+jsonlite	CRAN	2.0.0	KRT 10.5281/zenodo.22802221; unverified environment	MGB_Biobank_Medication_RxNorm.R
+lme4	CRAN	1.1.35.5	KRT 10.5281/zenodo.22802221; unverified environment	MGB_Biobank_Validation2.R
+lubridate	CRAN	1.9.4	KRT 10.5281/zenodo.22802221; unverified environment	MGB_Biobank_Medication_RxNorm.R;MGB_Biobank_Sensitivity.R;MGB_Biobank_Validation1.R;MGB_Biobank_Validation2.R;PD_risk.R;TTE_MDCR_ARB_Subgroup_BBB_Individual.R;TTE_MDCR_Autonomic_Prodromal_PD.R;TTE_MDCR_Drug_Classes_Final.R;TTE_MDCR_Primary_Analysis.R
+MAST	Bioconductor	1.0	KRT 10.5281/zenodo.22802221; unverified environment	Transcriptomic_analysis.Tahoe100M.py
+MatchIt	CRAN	4.5.5	KRT 10.5281/zenodo.22802221; unverified environment	MGB_Biobank_Sensitivity.R;PD_risk.R;TTE_MDCR_Primary_Analysis.R
+Matrix	CRAN	1.7.0	KRT 10.5281/zenodo.22802221; unverified environment	Transcriptomic_analysis.R
+numpy	PyPI	unrecorded	Not reported in supplied environment evidence	Transcriptomic_analysis.Tahoe100M.py
+openxlsx	CRAN	4.2.6.1	KRT 10.5281/zenodo.22802221; unverified environment	MGB_Biobank_Medication_RxNorm.R;MGB_Biobank_Sensitivity.R;MGB_Biobank_Validation1.R;MGB_Biobank_Validation2.R;PD_risk.R;Replication.R
+org.Hs.eg.db	Bioconductor	3.20.0	KRT 10.5281/zenodo.22802221; unverified environment	Transcriptomic_analysis.R
+pandas	PyPI	unrecorded	Not reported in supplied environment evidence	Transcriptomic_analysis.Tahoe100M.py
+patchwork	CRAN	1.3.0	KRT 10.5281/zenodo.22802221; unverified environment	TTE_MDCR_Sensitivity.R
+purrr	CRAN	1.2.2	KRT 10.5281/zenodo.22802221; unverified environment	MGB_Biobank_Medication_RxNorm.R;TTE_MDCR_ARB_Subgroup_BBB_Individual.R
+readr	CRAN	2.2.0	KRT 10.5281/zenodo.22802221; unverified environment	PD_risk.R;Replication.R;TTE_MDCR_ARB_Subgroup_BBB_Individual.R;TTE_MDCR_Autonomic_Prodromal_PD.R;TTE_MDCR_Drug_Classes_Final.R
+readxl	CRAN	1.4.3	KRT 10.5281/zenodo.22802221; unverified environment	PD_risk.R;Replication.R
+rpy2	PyPI	unrecorded	Not reported in supplied environment evidence	Transcriptomic_analysis.Tahoe100M.py
+scales	CRAN	1.4.1	KRT 10.5281/zenodo.22802221; unverified environment	Replication.R
+scanpy	PyPI	1.11.2	KRT 10.5281/zenodo.22802221; unverified environment	Transcriptomic_analysis.Tahoe100M.py
+Seurat	CRAN	5.1.0	KRT 10.5281/zenodo.22802221; unverified environment	Transcriptomic_analysis.R
+stringr	CRAN	1.5.1	KRT 10.5281/zenodo.22802221; unverified environment	MGB_Biobank_Medication_RxNorm.R;MGB_Biobank_Sensitivity.R;MGB_Biobank_Validation1.R;MGB_Biobank_Validation2.R;PD_risk.R;Replication.R;TTE_MDCR_ARB_Subgroup_BBB_Individual.R;TTE_MDCR_Autonomic_Prodromal_PD.R;TTE_MDCR_Drug_Classes_Final.R;Transcriptomic_analysis.R
+SummarizedExperiment	Bioconductor	unrecorded	Not reported in supplied environment evidence	Transcriptomic_analysis.Tahoe100M.py
+survey	CRAN	4.4.2	KRT 10.5281/zenodo.22802221; unverified environment	TTE_MDCR_ARB_Subgroup_BBB_Individual.R;TTE_MDCR_Autonomic_Prodromal_PD.R;TTE_MDCR_Drug_Classes_Final.R;TTE_MDCR_Primary_Analysis.R
+survival	CRAN	3.8.3	KRT 10.5281/zenodo.22802221; unverified environment	TTE_MDCR_ARB_Subgroup_BBB_Individual.R;TTE_MDCR_Autonomic_Prodromal_PD.R;TTE_MDCR_Drug_Classes_Final.R;TTE_MDCR_Primary_Analysis.R
+survminer	CRAN	0.5.0	KRT 10.5281/zenodo.22802221; unverified environment	TTE_MDCR_Primary_Analysis.R
+tibble	CRAN	3.3.1	KRT 10.5281/zenodo.22802221; unverified environment	MGB_Biobank_Medication_RxNorm.R;MGB_Biobank_Sensitivity.R;MGB_Biobank_Validation1.R;TTE_MDCR_ARB_Subgroup_BBB_Individual.R;TTE_MDCR_Autonomic_Prodromal_PD.R;TTE_MDCR_Drug_Classes_Final.R
+tidyr	CRAN	1.3.1	KRT 10.5281/zenodo.22802221; unverified environment	MGB_Biobank_Medication_RxNorm.R;MGB_Biobank_Sensitivity.R;MGB_Biobank_Validation1.R;MGB_Biobank_Validation2.R;PD_risk.R;Replication.R;TTE_MDCR_ARB_Subgroup_BBB_Individual.R;TTE_MDCR_Autonomic_Prodromal_PD.R;TTE_MDCR_Drug_Classes_Final.R;TTE_MDCR_Primary_Analysis.R
+tidyverse	CRAN	2.0.0	KRT 10.5281/zenodo.22802221; unverified environment	TTE_MDCR_Primary_Analysis.R;TTE_MDCR_Sensitivity.R;Transcriptomic_analysis.R
+WeightIt	CRAN	1.4.0	KRT 10.5281/zenodo.22802221; unverified environment	TTE_MDCR_ARB_Subgroup_BBB_Individual.R;TTE_MDCR_Autonomic_Prodromal_PD.R;TTE_MDCR_Drug_Classes_Final.R;TTE_MDCR_Primary_Analysis.R
