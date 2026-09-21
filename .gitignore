@@ -1,0 +1,31 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+# R/Python local state and package libraries
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+renv/library/
+renv/staging/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# Data and outputs are private by default; documentation remains public.
+data/**
+!data/README.md
+outputs/**
+local/
+*.rds
+*.RDS
+*.Rdata
+*.RData
+*.parquet
+*.h5ad
+*.h5
+*.xlsx
+*.xls
+*.log
+Rplots.pdf

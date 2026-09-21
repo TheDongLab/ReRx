@@ -1,0 +1,78 @@
+cff-version: 1.2.0
+message: >-
+  Cite the revised manuscript and the archived code version actually used.
+  This working revision has no verified version-specific code DOI yet;
+  the software reference below identifies the existing archive only.
+title: "ReRx: Antihypertensive medications and Parkinson's disease risk"
+type: software
+license: MIT
+repository-code: "https://github.com/TheDongLab/ReRx"
+url: "https://github.com/TheDongLab/ReRx"
+abstract: >-
+  Research scripts supporting medication-wide screening in MGB Biobank,
+  replication in AMP-PD cohorts, MarketScan target trial emulation, and
+  exploratory PD brain and drug-perturbation transcriptomic analyses.
+  See README.md for execution prerequisites and current limitations.
+keywords:
+  - Parkinson's disease
+  - antihypertensive medications
+  - target trial emulation
+  - drug repurposing
+  - transcriptomics
+# Software creators verified against the existing Zenodo code record.
+# The complete revised manuscript author list is recorded separately below.
+authors:
+  - family-names: Hu
+    given-names: Yuxuan
+    orcid: "https://orcid.org/0000-0003-2931-2991"
+  - family-names: Dong
+    given-names: Xianjun
+    orcid: "https://orcid.org/0000-0002-8052-9320"
+    email: xianjun.dong@yale.edu
+preferred-citation:
+  type: unpublished
+  title: "Antihypertensive medications and risk of Parkinson’s Disease: multi-cohort analyses integrating target trial emulation and transcriptomic evidence"
+  notes: "Revised manuscript supplied for this code collection; publication identifier not supplied."
+  authors:
+    - family-names: Hu
+      given-names: Yuxuan
+    - family-names: Liu
+      given-names: Weiqiang
+    - family-names: Zhou
+      given-names: Yujia
+    - family-names: Waits
+      given-names: Miles
+    - family-names: Zhao
+      given-names: Yiyong
+    - family-names: Olivero-Acosta
+      given-names: Maria I.
+    - family-names: Sheng
+      given-names: Katherine
+    - family-names: Zhang
+      given-names: Le
+    - family-names: Xu
+      given-names: Hua
+    - family-names: Scherzer
+      given-names: Clemens R.
+    - family-names: Dong
+      given-names: Xianjun
+references:
+  - type: software
+    title: "HYX990205/ReRx: Drug Repurposing for Parkinson's Disease"
+    authors:
+      - family-names: Hu
+        given-names: Yuxuan
+      - family-names: Dong
+        given-names: Xianjun
+    year: 2025
+    doi: "10.5281/zenodo.15360577"
+    notes: "Existing archive associated with v1.0.0; not the revised scripts in this working collection."
+  - type: data
+    title: "Key Resource Table for Antihypertensive medications and risk of Parkinson’s Disease: multi-cohort analyses integrating target trial emulation and transcriptomic evidence"
+    authors:
+      - family-names: Dong
+        given-names: Xianjun
+      - family-names: Hu
+        given-names: Yuxuan
+    year: 2026
+    doi: "10.5281/zenodo.22802221"
