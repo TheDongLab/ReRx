@@ -928,7 +928,7 @@ log_message("=== Outcome Definition: Parkinson's Disease ===")
 # -----------------------------------------------------------------------------
 # Step 1. Define ICD codes for PD
 # -----------------------------------------------------------------------------
-PD_ICD <- c("3320", "G20", "G20A1", "G20A2", "G20B1", "G20B2", "G20C")      # ICD-9-CM / ICD-10-CM codes
+PD_ICD <- c("3320", "G20")      # ICD-9-CM / ICD-10-CM codes; sensitivity analysis: PD_ICD <- c("3320", "G20", "G20A1", "G20A2", "G20B1", "G20B2", "G20C")
 MIN_OUTPATIENT_COUNT <- 1       # Require ≥1 PD outpatient visits to reduce false positives
 study_end_date <- as.Date("2024-09-30")
 # MIN_OUTPATIENT_INTERVAL <- 30   # Require visits separated by ≥30 days
