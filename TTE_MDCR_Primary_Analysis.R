@@ -2143,7 +2143,7 @@ log_message("=== Subgroup Analyses ===")
 # 1 Other_FirstLine     4426     41       21198.         1.93        1.39             2.62
 # 2 CCB                  747      1        2833.         0.353       0.00894          1.97
 
-# [ARB: aHR = 1.55, 95%CI (0.583, 4.14), p = 0.0378] [CCB: aHR = 0.164, 95%CI (0.0225, 1.19), p = 0.0738]
+# [ARB: aHR = 1.55, 95%CI (0.583, 4.14), p = 0.378] [CCB: aHR = 0.164, 95%CI (0.0225, 1.19), p = 0.0738]
 
 ## Age_at_index: 65+
 # treatment_combined      n events person_years ir_per_1000py ir_95ci_lower ir_95ci_upper
